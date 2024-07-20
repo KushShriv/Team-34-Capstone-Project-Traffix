@@ -1,0 +1,14 @@
+{
+  "name": "mapsandimagecapturing",
+  "version": "1.0.0",
+  "description": "> Arekere: 12.8906475549284, 77.59807569643147\r >\r > JP Nagar: 12.906434245038183, 77.5804062705511",
+  "main": "maps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^22.13.1"
+  }
+}
